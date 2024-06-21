@@ -7,7 +7,7 @@
 # username = input("Username?\n")
 # password = input("Password?\n")
 #
-# # validate username exists in users_ino
+# # validate username exists in users_info
 # def check_user_name(uname):
 #     # grid_bar()
 #     if uname not in users_info.keys():
@@ -53,4 +53,4 @@
 # # create user account
 # # check username is available
 # # check username meets all criteria
-#
+

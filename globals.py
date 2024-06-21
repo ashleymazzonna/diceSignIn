@@ -38,7 +38,8 @@ pictures = [
 # print(random.choice(pictures))
 #
 # members = ['harry', 'hermione', 'ron', 'draco', 'luna', 'ashley', 'gianna', 'aislynn',
-#            'jasmire', 'luna', 'hope', 'michael', 'freya', 'atrid', 'olaf', 'ragnar', 'spencer', 'donna', 'joey', 'noah', 'greyson']
+#            'jasmire', 'luna', 'hope', 'michael', 'freya', 'astrid', 'olaf', 'ragnar', 'spencer',
+#            'donna', 'joey', 'noah', 'greyson']
 # passwords = ['pass123', 'newpass123', '123pass', 'hello123', '123hello', '123newpass',
 #              'pw12345', '12345pw', 'signin123', '123signin', 'saved123', '123saved']
 # current_time = time.ctime()
